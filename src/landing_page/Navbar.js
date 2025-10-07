@@ -38,19 +38,19 @@ function Navbar() {
               </Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">
+              <Link class="nav-link active" aria-current="page" to="product">
                 Product
-              </a>
+              </Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">
+              <Link class="nav-link active" aria-current="page" href="#">
                 Pricing
-              </a>
+              </Link>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">
+              <Link class="nav-link active" aria-current="page" href="#">
                 Support
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

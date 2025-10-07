@@ -51,15 +51,6 @@ function Hero() {
           </p>
         </div>
       </div>
-
-      <div className="row">
-        <h1 className="text-center fs-3 mb-3 text-muted">People</h1>
-        <div className="col-6 p-5 text-center">
-          <img src="media/images/nithinKamath.jpg" alt="" style={{width:"55%",borderRadius:"50%"}} />
-          <h3 className="fs-4 mt-3 text-muted"> Nithin kamath</h3>
-          <h6 className="fs-6 text-muted mt-3">Founder, CEO</h6>
-        </div>
-      </div>
     </div>
   );
 }
