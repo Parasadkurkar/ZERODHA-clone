@@ -43,12 +43,12 @@ function Navbar() {
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link active" aria-current="page" href="#">
+              <Link class="nav-link active" aria-current="page" to="Pricing">
                 Pricing
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link active" aria-current="page" href="#">
+              <Link class="nav-link active" aria-current="page" to="support">
                 Support
               </Link>
             </li>
